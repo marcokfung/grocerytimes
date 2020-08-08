@@ -1,3 +1,3 @@
 import populartimes
-x = populartimes.get_id("key", "ChIJufS96zl8j4ARQZpbDY2hf7M")
+x = populartimes.get_id("AIzaSyCxcM8yBD9BXROEYSBUbSYUqg2b-bahSyw", "ChIJBWRDUyl-j4ARbqKZH9F4ezA")
 print(x)
