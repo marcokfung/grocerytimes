@@ -1,0 +1,61 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.8264219,
+               "lng" : -122.3703485
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.8277451802915,
+                  "lng" : -122.3691841697085
+               },
+               "southwest" : {
+                  "lat" : 37.8250472197085,
+                  "lng" : -122.3718821302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "7856b2e47024a5163d9a57edd51527a61d27db4c",
+         "name" : "Island Cove Market",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113917225429025811713\"\u003emock church\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA0wVlEofgrkYE-6IvDPUrDr4A0sUZSArt_E3dyFTaCpznKROMDazkVwxhSdhmkQttpm1s9xfnkrMeHXqFHIRUyKxaM7H5D69JsiTG_mqn4NbRaMT_kUZwlPMRObOLaiH9EhDNY5U5RAyT8-PGJVVHILKaGhT4HcuGgSx7OPbd6AXmjk8WFEtcAA",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJS-YmXjGAhYARHKyqiY0H83g",
+         "plus_code" : {
+            "compound_code" : "RJGH+HV Treasure Island, San Francisco, CA, USA",
+            "global_code" : "849VRJGH+HV"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJS-YmXjGAhYARHKyqiY0H83g",
+         "scope" : "GOOGLE",
+         "types" : [
+            "grocery_or_supermarket",
+            "atm",
+            "supermarket",
+            "finance",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 208,
+         "vicinity" : "Navy Base Exchange Building 201, 800 Avenue H, San Francisco"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,1079 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CqQCIAEAALPmZ1_eMwEbyfDqYGaCqMZI4iwC1kjEVhMxWe8X8k6wboCnh2duxCCkorh5qLjGQfnogTBI1-HH-tlMkjGA-yh8hxrOXhzU_cn2HVjmrUv6nvo9gpIFuoaLMKgtZCmPi6m6HyMApUcaj1Lg2PKBw-Q6LSWyL7rSAChRy_Q4zUIgAKjd4rGgcbzBnZdMPk08hogbuhTzyBb8iaExLtYaEjhnOEBCw0lgrMhh3ndwJPVSY8MbwyiBbio-pUAXiAWBeruDLb8e6eN-TbZbfpgFGCY8aZsAp4KutVpLpLxN3i8xvaPwwzuJs3vpvPQXbqWGOIn2Gvx1f2nYS2fb7oRd-HdcSqA95e9yZxvsJZwL9EN4854hUsGaFSzzTl9baKEZsRIQyuSNcOsbfg2M17LCwy1CUBoU70-kftQRJUsTfV5iiUo3wmeW22E",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.8055155,
+               "lng" : -122.413738
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.8068129802915,
+                  "lng" : -122.4123026697085
+               },
+               "southwest" : {
+                  "lat" : 37.8041150197085,
+                  "lng" : -122.4150006302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "29f7d39f98a61c70250464dd77ae1609a8b48e71",
+         "name" : "Trader Joe's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100329710370853567815\"\u003eLane Weaver\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA0SpS2YEtOewIIlNIswFA1V4_WMP2bvvvSW7oLjUE9_U7JIJ3QYhMKDd1of1_ufgNkBZ61WVRROsoRClTMv-7Oo3lhDvCpR9x6TuaMO6U3N1RqGCQatRf6sKNg6ssxJmlEhC8M6gWR4nENea37PUUDBPwGhTSrTPfVf-yCHRgPHvK0Kbk9sNumA",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJBU6MxOSAhYARYAZiSw44REU",
+         "plus_code" : {
+            "compound_code" : "RH4P+6G North Beach, San Francisco, CA, USA",
+            "global_code" : "849VRH4P+6G"
+         },
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "ChIJBU6MxOSAhYARYAZiSw44REU",
+         "scope" : "GOOGLE",
+         "types" : [
+            "grocery_or_supermarket",
+            "florist",
+            "supermarket",
+            "liquor_store",
+            "food",
+            "health",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 1089,
+         "vicinity" : "401 Bay Street, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.77110989999999,
+               "lng" : -122.4073786
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7725131302915,
+                  "lng" : -122.40548785
+               },
+               "southwest" : {
+                  "lat" : 37.7698151697085,
+                  "lng" : -122.40904005
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "fa08546d65e51c4f39053a4ad5f334a33b5d6dd1",
+         "name" : "Trader Joe's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114758710667336230995\"\u003eCandela Fernandez\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAqCRLtsoGemwoiWQlAuCcIkX-lycCjQ-NXswkGfn2wKCu4XYQ_-OZ1BqfhI5yzab4qozYONIRoRIl13tQECUSa4WyOjdV5ObORuXAt721w4Sl4I11yJaOtsmqE9N_6NvgEhA1aB_OfpHH43Fis4-bHe3MGhT-v2cXbtiJTbSGABQ8AwbHrx-rig",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJBWRDUyl-j4ARbqKZH9F4ezA",
+         "plus_code" : {
+            "compound_code" : "QHCV+C2 SoMa, San Francisco, CA, USA",
+            "global_code" : "849VQHCV+C2"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJBWRDUyl-j4ARbqKZH9F4ezA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "grocery_or_supermarket",
+            "florist",
+            "supermarket",
+            "liquor_store",
+            "food",
+            "health",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 1142,
+         "vicinity" : "555 9th Street, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7812623,
+               "lng" : -122.3997825
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7824825302915,
+                  "lng" : -122.3982380697085
+               },
+               "southwest" : {
+                  "lat" : 37.7797845697085,
+                  "lng" : -122.4009360302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "55e7ceac62d29c608a3374cd8e1e30134d537753",
+         "name" : "Whole Foods Market",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116418254005302142023\"\u003eWinnie S\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAED2_UFfyNraTEHszseW6FEikpkBny-Yi1DTh1oAfSXlYjvtGuNmd9fzpZmt2GoV8EQkAy_FCCLsbj-aj5vAQGeUcyVshHdc0fsI4JF5KNxsSb3Va3nkmr6e6LhGPQvrOEhB6Dv3u5Q08WTHqVclZkNn_GhTFoloqcjAf0HiA3VPN5JPU5pb0vw",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJhYcNTH6AhYARLCy6SOK5mbo",
+         "plus_code" : {
+            "compound_code" : "QJJ2+G3 Yerba Buena, San Francisco, CA, USA",
+            "global_code" : "849VQJJ2+G3"
+         },
+         "price_level" : 3,
+         "rating" : 4.2,
+         "reference" : "ChIJhYcNTH6AhYARLCy6SOK5mbo",
+         "scope" : "GOOGLE",
+         "types" : [
+            "grocery_or_supermarket",
+            "supermarket",
+            "food",
+            "health",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 1374,
+         "vicinity" : "399 4th Street, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7900502,
+               "lng" : -122.4233669
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7914735802915,
+                  "lng" : -122.4221112697085
+               },
+               "southwest" : {
+                  "lat" : 37.7887756197085,
+                  "lng" : -122.4248092302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "1cbdc9e90161a92283b0637131153462a748ea63",
+         "name" : "Whole Foods Market",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 972,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114838031341699145947\"\u003eArnaud Frugier\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAaolvIJS9tAAc50glTlR1pfpMN1U1LJ7EV6erbGU5zwauSCkBYSlm-aLI7dSL_uDPSdRPz0MYjS4MDor6K8LcOba0WEM62S-ve4n4HGUTPj-gs8M4PIEvtYrvGu2rm-6SEhCYpEtEF6DNHV0PHtizfAp-GhQfpdxk4yUcOIqe0ZcQMGM9cZpPfg",
+               "width" : 1296
+            }
+         ],
+         "place_id" : "ChIJC55dsuqAhYARQApjF1OPPWU",
+         "plus_code" : {
+            "compound_code" : "QHRG+2M Western Addition, San Francisco, CA, USA",
+            "global_code" : "849VQHRG+2M"
+         },
+         "price_level" : 3,
+         "rating" : 4.2,
+         "reference" : "ChIJC55dsuqAhYARQApjF1OPPWU",
+         "scope" : "GOOGLE",
+         "types" : [
+            "grocery_or_supermarket",
+            "supermarket",
+            "food",
+            "health",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 1160,
+         "vicinity" : "1765 California Street, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7906451,
+               "lng" : -122.4179937
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.79212853029151,
+                  "lng" : -122.4167255197085
+               },
+               "southwest" : {
+                  "lat" : 37.78943056970851,
+                  "lng" : -122.4194234802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "006997de535791e4c7a3ebf60fc9f784aaf8653a",
+         "name" : "Trader Joe's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116534086504865764750\"\u003eChris Prestel\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAI2cHTPKp6MkxJoVr4UP3oRgrgzz9p1Jz9urLIP-QniS_DqWlSZw0is81eEUxe-ZCeAamA7gWweV--nyKjYKqLQP9RvxBlAxryiiPMRKkigj9oY1J5VVTr48fa_EpP5gGEhCD_7owrkTHZFSm9lA6oIWwGhSuvaASJF_95Wy-tNWHXjStDEG9jw",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJi9oZRJOAhYARghWHny7nWBA",
+         "plus_code" : {
+            "compound_code" : "QHRJ+7R Lower Nob Hill, San Francisco, CA, USA",
+            "global_code" : "849VQHRJ+7R"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJi9oZRJOAhYARghWHny7nWBA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "grocery_or_supermarket",
+            "florist",
+            "supermarket",
+            "liquor_store",
+            "food",
+            "health",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 1986,
+         "vicinity" : "1095 Hyde Street, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7960777,
+               "lng" : -122.408079
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7973928802915,
+                  "lng" : -122.4068417697085
+               },
+               "southwest" : {
+                  "lat" : 37.7946949197085,
+                  "lng" : -122.4095397302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "930119031ccd11f85ce9908915e244e7e7b6a048",
+         "name" : "Lien Hing Supermarket",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106800560366928772503\"\u003eminnie neo\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAlJIVGzOe6WceHEPHNQsLOKoe_D6FsZjjrcB3btkwc0gOW7HLuMj7ojz5OCcEYtI2fsB74JBdf8PuIVJtCFrl8JtG6vsrAPxqz2hdEwR2kiDuf-7HCjgNk8xBmB1u_pjUEhDcxKoP9DhPIquBpZwIklYsGhRVhtX15M2hg76oUTheXKWwLiDUBQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJFTOaa_OAhYARCpUcDoD6FJE",
+         "plus_code" : {
+            "compound_code" : "QHWR+CQ Chinatown, San Francisco, CA, USA",
+            "global_code" : "849VQHWR+CQ"
+         },
+         "rating" : 3.3,
+         "reference" : "ChIJFTOaa_OAhYARCpUcDoD6FJE",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 4,
+         "vicinity" : "1121 Stockton Street, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7900504,
+               "lng" : -122.4108637
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.79132948029149,
+                  "lng" : -122.4095172197085
+               },
+               "southwest" : {
+                  "lat" : 37.7886315197085,
+                  "lng" : -122.4122151802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "ea111045831816241b41b451993af686c814cf53",
+         "name" : "Bush Market",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2767,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102665605303015828753\"\u003eDaniel Wylie\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA6aFv_3kLsnAfDDvOdL5Jp43sMq0cHH8kXYa_3mUmpdz4GdGNJ1CS8S-uvtoAYp1AdKFv8elNUoHYNAuNmvaiuReNDrYbPfklzxPKdECbcc7QrJO2qXH7DxAWrIlluzfnEhAH34SmqnFt3OcREGoFBRZyGhS_VvLNMsHaRLfnqZNprOxcpkAW_w",
+               "width" : 2182
+            }
+         ],
+         "place_id" : "ChIJI6Dsxo2AhYAR4Fy3Xp7QCa8",
+         "plus_code" : {
+            "compound_code" : "QHRQ+2M Lower Nob Hill, San Francisco, CA, USA",
+            "global_code" : "849VQHRQ+2M"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJI6Dsxo2AhYAR4Fy3Xp7QCa8",
+         "scope" : "GOOGLE",
+         "types" : [
+            "grocery_or_supermarket",
+            "supermarket",
+            "liquor_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 115,
+         "vicinity" : "820 Bush Street, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7853327,
+               "lng" : -122.4056674
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7867379802915,
+                  "lng" : -122.4042004697085
+               },
+               "southwest" : {
+                  "lat" : 37.78404001970851,
+                  "lng" : -122.4068984302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "057849135fb86b2e2d3d8f6ad985c1d94870cee9",
+         "name" : "Trader Joe's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105652556557519273000\"\u003eShinichiro Yamamoto\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAry5f4CW5Tyohgz-gRjB62nfo4A5n36tLDg0C-YwEFGFqjHpzUknl_pqjjAqbTMrlTg22AhtIGjkFUapoth6twTQWzmgzsiv6lPR8fSM-7OLeP26TK7gS11n34QpwqDNsEhCfHA9CpSDe8ZYRDEqgWye1GhRQFUM8TM3m3Tvixy2qvkjNHsz5JQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJLfhTIoaAhYARQJpt5keGfk8",
+         "plus_code" : {
+            "compound_code" : "QHPV+4P Yerba Buena, San Francisco, CA, USA",
+            "global_code" : "849VQHPV+4P"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJLfhTIoaAhYARQJpt5keGfk8",
+         "scope" : "GOOGLE",
+         "types" : [
+            "grocery_or_supermarket",
+            "florist",
+            "supermarket",
+            "liquor_store",
+            "food",
+            "health",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 1872,
+         "vicinity" : "10 4th Street, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7910355,
+               "lng" : -122.3933911
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.79234193029149,
+                  "lng" : -122.3918435197085
+               },
+               "southwest" : {
+                  "lat" : 37.78964396970849,
+                  "lng" : -122.3945414802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "0350764e70264731f883edc9f69dd7418abb4639",
+         "name" : "Instant Combo Savings",
+         "place_id" : "ChIJD2Ls5mSAhYAR6_zQU0A2Qm0",
+         "plus_code" : {
+            "compound_code" : "QJR4+CJ South Beach, San Francisco, CA, USA",
+            "global_code" : "849VQJR4+CJ"
+         },
+         "reference" : "ChIJD2Ls5mSAhYAR6_zQU0A2Qm0",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "vicinity" : "182 Howard Street #005, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7890738,
+               "lng" : -122.3919066
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7905260802915,
+                  "lng" : -122.3905630197085
+               },
+               "southwest" : {
+                  "lat" : 37.7878281197085,
+                  "lng" : -122.3932609802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "497e57330b86d8115e5c53ebb128e4ec9dcb8307",
+         "name" : "Woodlands Market",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1323,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107513265283198256093\"\u003eWoodlands Market\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAUZuhNUd9AgiKpPN84H5XfHUO30RKZsrRKzJgBZf3-NzhufzbOZOPWg3YAXFfrVTOkEm-NUgd-TKgX35MvK7E43YA47EPLbGMeclL_d0H5Z48MmmkKd5Az0FdcEj6s0AeEhCbedsLeowuhEBixkGIHVVyGhR77JJtGMKZzUgDaFs1-eHoMPk5cA",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ4zPD53qAhYAR6rKmEpiEMnM",
+         "plus_code" : {
+            "compound_code" : "QJQ5+J6 South Beach, San Francisco, CA, USA",
+            "global_code" : "849VQJQ5+J6"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJ4zPD53qAhYAR6rKmEpiEMnM",
+         "scope" : "GOOGLE",
+         "types" : [
+            "grocery_or_supermarket",
+            "supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 406,
+         "vicinity" : "203 Folsom Street, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7764402,
+               "lng" : -122.4116305
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.77784183029149,
+                  "lng" : -122.4104555197085
+               },
+               "southwest" : {
+                  "lat" : 37.77514386970849,
+                  "lng" : -122.4131534802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "4c1f7d3228a26168dbfd517cd9d739166fb0b358",
+         "name" : "Harvest Urban Market",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2523,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115090276411936715629\"\u003eLuke Haruki\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAqL-ndS1BY08mY3EewNgIjYOp87Az0qGf6xaXfMj30Tdj6TzfLl3sdqYcAfEjZQwu-hTGMPHfycAEabFIQnwSmcGBoIwLXvuRsFUq9E4QyqAEb9g0k5hsbyFo3V0DHVnAEhAUxiOR9CCie_IDhGsjn0O-GhSYhFImCzkBZwgL5j_FRkuKS47N4g",
+               "width" : 4478
+            }
+         ],
+         "place_id" : "ChIJb2a224KAhYAReoKaG6hyNCY",
+         "plus_code" : {
+            "compound_code" : "QHGQ+H8 SoMa, San Francisco, CA, USA",
+            "global_code" : "849VQHGQ+H8"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJb2a224KAhYAReoKaG6hyNCY",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "health",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 339,
+         "vicinity" : "191 8th Street, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7854559,
+               "lng" : -122.4143454
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.78689508029149,
+                  "lng" : -122.4130154197085
+               },
+               "southwest" : {
+                  "lat" : 37.78419711970849,
+                  "lng" : -122.4157133802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "3de9e2b04f96144f936fba80aacddacd01219116",
+         "name" : "Econo Market",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101966223994042120645\"\u003eAnthony Byrd\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAYyHu4QFkmD_FPDji66_NxDfo7SjVwbuj4PC1Rbdl-Essi1IxK3DKza5L-lMSAWGyTZxfNnlNfWxFvAH5by5W4dEqQbjm1lNlggS4MP4d-ajLYufwNHaO-VVC_bqr2INMEhBBqDPf4pqioNSCgqQsMzPIGhSv98AXhksBis_xbKlgSESlqHH12g",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJR5wxS5CAhYAR392fttKScrc",
+         "plus_code" : {
+            "compound_code" : "QHPP+57 Tenderloin, San Francisco, CA, USA",
+            "global_code" : "849VQHPP+57"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJR5wxS5CAhYAR392fttKScrc",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 12,
+         "vicinity" : "593 O'Farrell Street, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7873482,
+               "lng" : -122.4168167
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.78864443029151,
+                  "lng" : -122.4154568697085
+               },
+               "southwest" : {
+                  "lat" : 37.78594646970851,
+                  "lng" : -122.4181548302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "2b75467a64e3644dca9727383e88b9e0bc395abb",
+         "name" : "U N Market",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114055285724015169778\"\u003eU N Market\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAAuvhBCCZ-fSoaN3W1Hai02A3YesfuLGsPy4KUs74R_XpE1_nsIVPbBXCLBf_f4PWgvzImMcMtsmm3dEejmbZt9ILDFQicVeTEd4qhFe_ZsmNHuaB-wCWNl_rJ_NYuXn8tEhCfix0X_PHEB-lD6D8mg_jaGhT_93FBKloiuiTaTkMY2BRL2EJxig",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ28NU35OAhYARPeZKyPY9t2E",
+         "plus_code" : {
+            "compound_code" : "QHPM+W7 Lower Nob Hill, San Francisco, CA, USA",
+            "global_code" : "849VQHPM+W7"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ28NU35OAhYARPeZKyPY9t2E",
+         "scope" : "GOOGLE",
+         "types" : [
+            "grocery_or_supermarket",
+            "supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 10,
+         "vicinity" : "900 Post Street, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.782469,
+               "lng" : -122.4158342
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7838729302915,
+                  "lng" : -122.4144186197085
+               },
+               "southwest" : {
+                  "lat" : 37.7811749697085,
+                  "lng" : -122.4171165802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "50f3c2ebe7813fd369c645057b3ab23e00cd9125",
+         "name" : "Hyde Turk Market",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112637161302461866591\"\u003eAbu Laith AlfadL\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAns42KmgmMv8uxD3PGWpTtPJ2srPW1sFZtpDtrE24crutGpibhvCgtBXJeS2T-94T2Ns2nmOfx_z-EP5hDPPVh3TP20egv_eLHkOfCOcPP2RVEnrFagOxc0c09LTKfV6MEhCpqCtlS9bjcyk1V4o5MwIRGhSY73hn_19kRiDxvWR-ZQyEXdhTRQ",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ5Uu_fZqAhYARZ1vq1d0Ox-4",
+         "plus_code" : {
+            "compound_code" : "QHJM+XM Tenderloin, San Francisco, CA, USA",
+            "global_code" : "849VQHJM+XM"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJ5Uu_fZqAhYARZ1vq1d0Ox-4",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 15,
+         "vicinity" : "161 Hyde Street, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.79116680000001,
+               "lng" : -122.407674
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7925593802915,
+                  "lng" : -122.4063734197085
+               },
+               "southwest" : {
+                  "lat" : 37.7898614197085,
+                  "lng" : -122.4090713802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "e5064f44ea3d355ac5f210776d4e3f713105c50a",
+         "name" : "J & W Market",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107602328530544278868\"\u003eRock Smile\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAA7tMtTeS8hWblMFS8jpN4nnlx8B3AJ9yusFAX_zpzMuOS4lCxW3YoTkLxhO_DsDtdYT3u8rO_cdcNqfh2ymVm0uWRbmBxVy6EI_aTMn276EZNHo5TBCwZEmNSQottSBoEhBtWaiiTTOFKEbGjSLiHRxsGhSaPJCKbr3LIA2qcTYMf_IhnPtENQ",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJGwgoDYyAhYARo1IgW8-ob6Q",
+         "plus_code" : {
+            "compound_code" : "QHRR+FW Chinatown, San Francisco, CA, USA",
+            "global_code" : "849VQHRR+FW"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJGwgoDYyAhYARo1IgW8-ob6Q",
+         "scope" : "GOOGLE",
+         "types" : [
+            "grocery_or_supermarket",
+            "supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 22,
+         "vicinity" : "723 Pine Street, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7960518,
+               "lng" : -122.4080828
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.79737993029151,
+                  "lng" : -122.4068436697085
+               },
+               "southwest" : {
+                  "lat" : 37.79468196970851,
+                  "lng" : -122.4095416302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "a371a5fac63a1cc38b558cf8eb218c76de8d635f",
+         "name" : "City Super",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107602328530544278868\"\u003eRock Smile\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA42E80iRfNpTys5TDbHLSfHxipMTSpH2t3okwbA2E_AwU4ElwNO5xr6FNIzpa30rL8_dX31UWvlemC4ZtUfUoC9JmEzeV-4sDEUwQ-MXuGa_MxrDtJTx3T7vbMvBwtdQHEhC9XUh7ZD2uNVr_4GhNK4VdGhR4a0i3lN1TPW4gFcByRcvoLOkLVQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJTR_ba_OAhYARxzuE3SP0ITc",
+         "plus_code" : {
+            "compound_code" : "QHWR+CQ Chinatown, San Francisco, CA, USA",
+            "global_code" : "849VQHWR+CQ"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJTR_ba_OAhYARxzuE3SP0ITc",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 20,
+         "vicinity" : "1108 Stockton Street, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7832802,
+               "lng" : -122.4188667
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7845673802915,
+                  "lng" : -122.4174789697085
+               },
+               "southwest" : {
+                  "lat" : 37.78186941970851,
+                  "lng" : -122.4201769302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "f29a71b6390ae6bceda01d1c791a2b15802069bd",
+         "name" : "Gladstone Market",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 5312,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112415582614679569505\"\u003eLuiz Pereira\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAxlOhE6ORocOewUmuAFzIqBkIbK6bd4jKmaHMmfj7TTC3vfwpuXzC6_estVAfCZYD0-F8d-gf1Nl8YP6gCgOCln-hxVA0TiNmrIkkP_djpdu3tz1c4MCbm31JIUmXATvnEhAP0cECBKTz3emtBqnUlAW1GhRVeDCUUYIMzOCZ7SB_Y12PPjLi5w",
+               "width" : 2988
+            }
+         ],
+         "place_id" : "ChIJE5S7NpeAhYARsbCLBpDCxAo",
+         "plus_code" : {
+            "compound_code" : "QHMJ+8F Little Saigon, San Francisco, CA, USA",
+            "global_code" : "849VQHMJ+8F"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJE5S7NpeAhYARsbCLBpDCxAo",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 18,
+         "vicinity" : "678 Eddy Street, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7901983,
+               "lng" : -122.4208305
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7915608802915,
+                  "lng" : -122.4193799697085
+               },
+               "southwest" : {
+                  "lat" : 37.7888629197085,
+                  "lng" : -122.4220779302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "9b4f7c7627ccc65b010badcf5b3393bc7b65f955",
+         "name" : "Golden farmer market",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113049688868524661077\"\u003eSarah Gauld\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAly3Uwu-QIPt30N9cukF4EqHbpH3xSpwp7GTOmvT-lIAWNYMYFwawZwTfyH4XU_gMe-rxITCVyNN01aLC_8Tw8rVK_kwUMJjNGQ-jPshEUPmxae_LlbtLGjIMGuvBtpevEhCpLZqLYHBdmptWl0N4uLeVGhQ4nIRYAl0eOq56gCdJ4XQGkUxXtQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJvzaY0ZSAhYARJxoV9hUQ-HQ",
+         "plus_code" : {
+            "compound_code" : "QHRH+3M Polk Gulch, San Francisco, CA, USA",
+            "global_code" : "849VQHRH+3M"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJvzaY0ZSAhYARJxoV9hUQ-HQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "grocery_or_supermarket",
+            "supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 145,
+         "vicinity" : "1475 Polk Street, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7759411,
+               "lng" : -122.4115719
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.77737328029149,
+                  "lng" : -122.4103275197085
+               },
+               "southwest" : {
+                  "lat" : 37.77467531970849,
+                  "lng" : -122.4130254802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "a8a12d4361ceebd73b925bb67f0528af8bd77759",
+         "name" : "Uni-Mart",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116998966393159336941\"\u003eA.J. Guest\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAZjM5kVLKB86_QLDzUXv2mb1IvP33-Q0NLY5b2GSfSWAt13_n3MLTl9DRR6Xq5mGnaNKxIix5AKBTpPi-a2coASu92mfDoMw0zDoC9V9p0VSlyxIHRO_mUv7v_hy9SN6JEhDDhgcU-tK_skACYvyS2rgnGhSyGPOKZP_1HUMZN2p229Mz_ZWdEA",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJC26fxIKAhYARvIOXekYDQX4",
+         "plus_code" : {
+            "compound_code" : "QHGQ+99 SoMa, San Francisco, CA, USA",
+            "global_code" : "849VQHGQ+99"
+         },
+         "rating" : 3.2,
+         "reference" : "ChIJC26fxIKAhYARvIOXekYDQX4",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 9,
+         "vicinity" : "1201 Howard Street, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7786964,
+               "lng" : -122.4089351
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7799664302915,
+                  "lng" : -122.4074652197085
+               },
+               "southwest" : {
+                  "lat" : 37.7772684697085,
+                  "lng" : -122.4101631802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "aedb509b59f335fe59af508f4c7470105bd17572",
+         "name" : "Starco Mart",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2964,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113305919995230455128\"\u003eAlex\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAGwvl2Puj2_3lkrzi6-a-MbzC03Nv_lvw0CcanN4pRDXhpX8Ar_LgBIXqeSZa9o9VZjPFokQO7Itfrtdp5OQY4wZ81IjIBqbq3i2sWKn1DEY8j2tm_eL3JDkUi_tI7-9xEhAf40lmlIE9K6cQZp3KPhdXGhQkZtRQCrJXs9CbKfv9MuMO6QQV4Q",
+               "width" : 3953
+            }
+         ],
+         "place_id" : "ChIJRf_Yf4OAhYARdSopOXub5JY",
+         "plus_code" : {
+            "compound_code" : "QHHR+FC SoMa, San Francisco, CA, USA",
+            "global_code" : "849VQHHR+FC"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJRf_Yf4OAhYARdSopOXub5JY",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 14,
+         "vicinity" : "1070 Howard Street, San Francisco"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,811 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7833698,
+               "lng" : -122.4478739
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.78458913029149,
+                  "lng" : -122.4463273697085
+               },
+               "southwest" : {
+                  "lat" : 37.78189116970849,
+                  "lng" : -122.4490253302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "11244549d9c6ca3801312554bff24093f8d0d4cc",
+         "name" : "Trader Joe's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110211973256588916868\"\u003eMariah Horan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAtb7-MLC-TJrMjQt9HkyCFzPfDh0nKAzpoNbQKTHKO0goPpzbqKoS3WbCuEH3fjKE7NKCaylzEnsAg1YSDLdBf3M-wEUITUF86daHl_dc8Us_TP9G7yRwqyRrfxAd7QkfEhARiQkqFjhXi2OTHN50VSi1GhRAP7CMcSknMYn2uQ_jOYOn-pL8LQ",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJGeeuRjWHhYARh6JurlcBi5Y",
+         "plus_code" : {
+            "compound_code" : "QHM2+8V Laurel Heights, San Francisco, CA, USA",
+            "global_code" : "849VQHM2+8V"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJGeeuRjWHhYARh6JurlcBi5Y",
+         "scope" : "GOOGLE",
+         "types" : [
+            "grocery_or_supermarket",
+            "florist",
+            "supermarket",
+            "liquor_store",
+            "food",
+            "health",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 1284,
+         "vicinity" : "3 Masonic Avenue, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7827054,
+               "lng" : -122.4668356
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7841209302915,
+                  "lng" : -122.4654983697085
+               },
+               "southwest" : {
+                  "lat" : 37.7814229697085,
+                  "lng" : -122.4681963302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "38dac3fcd0be75e95b68a1ac21609d7a7c964710",
+         "name" : "Richmond New May Wah Supermarket",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3480,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109274499606921160711\"\u003eMusho Pea\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAABacjVxiftvGs4SgjSGLJncgbx7X0D_tWCAcwtx8OEh4vOuQI0p_U0MYgfEAyJmAmQbq9cy14WU4uWfh2ayKNvTF-Ze2fgzcxD66qrbynniRWTuXy82fob6WXUDIx5RwCEhD7jQdhGoEUEeUII5-u8LY6GhR1SV_tWtexg2izGlPCNiNiL8MJKw",
+               "width" : 4640
+            }
+         ],
+         "place_id" : "ChIJK6NHsT2HhYARVQfWlDRDKQU",
+         "plus_code" : {
+            "compound_code" : "QGMM+37 Inner Richmond, San Francisco, CA, USA",
+            "global_code" : "849VQGMM+37"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJK6NHsT2HhYARVQfWlDRDKQU",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 659,
+         "vicinity" : "707 Clement Street, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7756479,
+               "lng" : -122.45812
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7769908302915,
+                  "lng" : -122.4569545197085
+               },
+               "southwest" : {
+                  "lat" : 37.7742928697085,
+                  "lng" : -122.4596524802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "b6ad963ab177a5d74a245918149f9de52a14ad22",
+         "name" : "Arguello Market",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 576,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109203709620718891771\"\u003eRene Silvestre\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA_UYs5Q-AJ5yEMJ7L_8j16DMRRKPliAZN2WF9I7EHTd8Sh5W-9v2JsKzUYJnT4vCHDtfIHEfrOS3d9rFz1hIViroqtOATAo9CCy6x1GknMjP-ONL3tsG_auyXOVB3-ijcEhBlJWVwz4bOe5hFnVYddEFrGhSi0TawjJziyE2OQW6YxN6Grk2tvw",
+               "width" : 858
+            }
+         ],
+         "place_id" : "ChIJp_T6IUaHhYARCB8W4fTwncI",
+         "plus_code" : {
+            "compound_code" : "QGGR+7Q Inner Richmond, San Francisco, CA, USA",
+            "global_code" : "849VQGGR+7Q"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJp_T6IUaHhYARCB8W4fTwncI",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 221,
+         "vicinity" : "782 Arguello Boulevard, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7823311,
+               "lng" : -122.4651926
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7835456302915,
+                  "lng" : -122.4638323697085
+               },
+               "southwest" : {
+                  "lat" : 37.78084766970851,
+                  "lng" : -122.4665303302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "6365905eda04f4fa3e8acf43f1264450a02e32cb",
+         "name" : "Smart & Final",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3006,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101257645491187781028\"\u003eThomas San Francisco\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA_ha1eeALB0RCRFyk1ntMdrdbY4jnxpGpPN4JaXhb0h2Ma6h8t-MRck2VQyq7SoADMt0OuGhaEEkcwdZSIPVBPYLS4v6VhoWonQTRcwkSd_1VfZeJNOLApvNZPn5kgsf_EhAzWDcVWjDYy0OTIG071muzGhRgRs-9lGBy9_JdHz-qLCrlw5IW2g",
+               "width" : 5344
+            }
+         ],
+         "place_id" : "ChIJvfEkITyHhYARshdHRh21TOY",
+         "plus_code" : {
+            "compound_code" : "QGJM+WW Inner Richmond, San Francisco, CA, USA",
+            "global_code" : "849VQGJM+WW"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJvfEkITyHhYARshdHRh21TOY",
+         "scope" : "GOOGLE",
+         "types" : [
+            "grocery_or_supermarket",
+            "supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 233,
+         "vicinity" : "350 7th Avenue, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7862358,
+               "lng" : -122.4527588
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7874819802915,
+                  "lng" : -122.4513861197085
+               },
+               "southwest" : {
+                  "lat" : 37.7847840197085,
+                  "lng" : -122.4540840802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "c651016cf2c0998bbf33574694955d6b2517f7a9",
+         "name" : "Cal-Mart",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3006,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101257645491187781028\"\u003eThomas San Francisco\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA7yxzmXl9aDhYknLDwchXndHgSit81pVsV9NPC9pDGCRG3rz4bSquQa58yqQRnpOiqpTGCa2F8FTSnrkp5sXrrx4uoq1xrAQvZ8YHQyVC_gc0H8hDbTJ7xFEHJgrBJdiPEhD-isbgE5kO7qCM1neYJOsAGhSJQA88cnHMdrpDuqPpUH0oRNzXQQ",
+               "width" : 5344
+            }
+         ],
+         "place_id" : "ChIJsz4h-zOHhYARkWnZE58MTUg",
+         "plus_code" : {
+            "compound_code" : "QGPW+FV Laurel Heights, San Francisco, CA, USA",
+            "global_code" : "849VQGPW+FV"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJsz4h-zOHhYARkWnZE58MTUg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "grocery_or_supermarket",
+            "bakery",
+            "supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 257,
+         "vicinity" : "3585 California Street, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7806033,
+               "lng" : -122.4690592
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7820250302915,
+                  "lng" : -122.4677030697085
+               },
+               "southwest" : {
+                  "lat" : 37.7793270697085,
+                  "lng" : -122.4704010302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "4b7ccc25bc0e77551a9ed1a84239c9f761b788aa",
+         "name" : "First Korean Market",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 749,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103918941748163539279\"\u003eKrystyna Maliniak\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAABA5h71wt6aCUPYBO-jt_Z05ONQGpRq_tVLZ0niP9RHYWjt9Up4AL5N79o3PYEyOSjZrau9W6g8Fw-Kdl9a042C-bk30r9tCXdtVMW2snynYQYnbTvT3EHW-f6ROW43YVEhAUz-w_2T7JwY3rUa_4WsmKGhSG8ROLPM-AZ6rr7ujrF8HtxvQqHw",
+               "width" : 1069
+            }
+         ],
+         "place_id" : "ChIJoz8B_j2HhYAR1_9Y60AOt44",
+         "plus_code" : {
+            "compound_code" : "QGJJ+69 Inner Richmond, San Francisco, CA, USA",
+            "global_code" : "849VQGJJ+69"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJoz8B_j2HhYAR1_9Y60AOt44",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 126,
+         "vicinity" : "4625 Geary Boulevard, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7832017,
+               "lng" : -122.4635896
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7844437802915,
+                  "lng" : -122.4622376197085
+               },
+               "southwest" : {
+                  "lat" : 37.7817458197085,
+                  "lng" : -122.4649355802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "2a40147a91aa1025f6dd93463b47797617901d85",
+         "name" : "New Lien Hing Supermarket",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107077101272036126753\"\u003eHK er\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAKCPaEZbxo0pjkTUrQjxz3OU46w0nEd_-myWyEgLWvwxzeDdCSKePl7XIkIuteM7wuqzy8FMw0RHRD3F_76Xdy-nwMV3Et8vQ8DjxjWW-A6I6rJhxH86e2iBctyRxnnrMEhA1ol88ugbzMUVbKIXwfIKaGhRDiQJDeX-SOvZEJ6L17HaW38zgoA",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJq11F9juHhYARAaqyKKbiDW4",
+         "plus_code" : {
+            "compound_code" : "QGMP+7H Inner Richmond, San Francisco, CA, USA",
+            "global_code" : "849VQGMP+7H"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJq11F9juHhYARAaqyKKbiDW4",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 41,
+         "vicinity" : "400 Clement Street, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7801116,
+               "lng" : -122.4801061
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7815267302915,
+                  "lng" : -122.4787617697085
+               },
+               "southwest" : {
+                  "lat" : 37.7788287697085,
+                  "lng" : -122.4814597302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "176ec9a3c263ff5443f211b5817e0a1db25dad23",
+         "name" : "New World Market",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 749,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103918941748163539279\"\u003eKrystyna Maliniak\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAU9W6xwKt1aq63GJ8Qz665PgzecU4MWfu5f4Xiwg4PabIj2sPAgJfRfbzrtgqv2XOrwt4-1YEza53QmFTOOD96V1BISk013cZkXp02OCMGcs0sxDnmNQ1Z16X6TQqSaWIEhBUqwZlIMaoPCgJLE8H9VfBGhT54b_x3Z3-5PeBdp9YfEPOSLuIAg",
+               "width" : 981
+            }
+         ],
+         "place_id" : "ChIJD8t-JRCHhYARO2vqUDQYwP0",
+         "plus_code" : {
+            "compound_code" : "QGJ9+2X Richmond District, San Francisco, CA, USA",
+            "global_code" : "849VQGJ9+2X"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJD8t-JRCHhYARO2vqUDQYwP0",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 145,
+         "vicinity" : "5641 Geary Boulevard, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7838678,
+               "lng" : -122.481983
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7852947802915,
+                  "lng" : -122.4806385197085
+               },
+               "southwest" : {
+                  "lat" : 37.7825968197085,
+                  "lng" : -122.4833364802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "9fe3d0a26eaedf36dd2d08e1b9b3a065775ff919",
+         "name" : "6001 California Market",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 599,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103918941748163539279\"\u003eKrystyna Maliniak\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAwkzCvPy2ca16w_q65AaT_z-bJe2qfPXUohT5jZLx1fQrtLK6msjTtkxB9LrYXrWLp4yF6obYt2JFRQHDLFYufcIxck5-um8nrqIAB9EunfiqF2ul_t57E06fwKO7k9JNEhDkMVWzChVRsRu67VWwmuDJGhSfsEF1g6ZjmTaXX13RoY5CFZaKAQ",
+               "width" : 799
+            }
+         ],
+         "place_id" : "ChIJxwWa3wSHhYARR9nVLam3xQI",
+         "plus_code" : {
+            "compound_code" : "QGM9+G6 Richmond District, San Francisco, CA, USA",
+            "global_code" : "849VQGM9+G6"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJxwWa3wSHhYARR9nVLam3xQI",
+         "scope" : "GOOGLE",
+         "types" : [
+            "grocery_or_supermarket",
+            "supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 20,
+         "vicinity" : "6001 California Street, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.78024139999999,
+               "lng" : -122.4767538
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.78166833029149,
+                  "lng" : -122.4754124697085
+               },
+               "southwest" : {
+                  "lat" : 37.7789703697085,
+                  "lng" : -122.4781104302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "6061ba824b1f44a85ebd8c8814fdb1347fc24119",
+         "name" : "Royal Market Food & Bakery",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108481374449300363774\"\u003eUpper Playground\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAmUXs4sON5CWK5mGl4dH6BxiwxRKMap9zON2Nfuj8e2A0h87VM3-Nb61RWsfXyKGLEnMuGNOlCIHMJKj69QCTod1fHktvoldk0C2SUsNREBl2M464vrTsmgYFCzmPbrGzEhC_q27zx3rn67iaJ0aLj1qYGhQpnGzxB69pTZdFQvv_YMt4M1rrxg",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJGXBCGRGHhYARj1QVc4tcTqM",
+         "plus_code" : {
+            "compound_code" : "QGJF+37 Inner Richmond, San Francisco, CA, USA",
+            "global_code" : "849VQGJF+37"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJGXBCGRGHhYARj1QVc4tcTqM",
+         "scope" : "GOOGLE",
+         "types" : [
+            "grocery_or_supermarket",
+            "bakery",
+            "supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 239,
+         "vicinity" : "5335 Geary Boulevard, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7840534,
+               "lng" : -122.4787331
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.78544638029149,
+                  "lng" : -122.4773178197085
+               },
+               "southwest" : {
+                  "lat" : 37.7827484197085,
+                  "lng" : -122.4800157802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "86ecb6097afbf40de8d18f6a3b11c25f497e54f1",
+         "name" : "New California Food Market",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3072,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116528883697229846476\"\u003eRobbie R\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAhxOqfRfDYpdJUWYY18B4BBotBAGfGGkXNt7alvea1xqXus1YGA-iZag__ARKXYoxqjkkrD2zVRDSBgdFQE6KfZm-IQlt7-8NJLMZkVisJtjzz6jxSK08y3ZdQ68mANM8EhAT4y_MA0l3xCmnyvTvrOGdGhTRtcDw_zl0j6uKADaDHC-1AOWrbQ",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJMSDc7xqHhYARG44nzYU0jmg",
+         "plus_code" : {
+            "compound_code" : "QGMC+JG Richmond District, San Francisco, CA, USA",
+            "global_code" : "849VQGMC+JG"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJMSDc7xqHhYARG44nzYU0jmg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "grocery_or_supermarket",
+            "convenience_store",
+            "supermarket",
+            "liquor_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 7,
+         "vicinity" : "5701 California Street, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.780686,
+               "lng" : -122.4771407
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.78194948029149,
+                  "lng" : -122.4757620197085
+               },
+               "southwest" : {
+                  "lat" : 37.7792515197085,
+                  "lng" : -122.4784599802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "924db65a2882ed82a11595d3fd964b91a581d90b",
+         "name" : "Europa Plus Russian Grocery",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116066744215346139524\"\u003eEuropa Plus Russian Grocery\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAIj_ybDyn7xHHP4VROWue_J36FUP1urGR6wL4GqyZ-RIhICeimHfrRd3Q82Ypg8-ZWBddb-65WufpHm8C8KdxcEs7sZoGU1B_ev-t7QNLbBahmHmP0aGqtDOpbfgd6IkKEhD5mB7mHGZ8XtgU_JZWehICGhQ7xZrf3OmhGNmXgyVNcILx9_Iwog",
+               "width" : 750
+            }
+         ],
+         "place_id" : "ChIJ-2DS4hCHhYARcHfy8rnSyow",
+         "plus_code" : {
+            "compound_code" : "QGJF+74 Inner Richmond, San Francisco, CA, USA",
+            "global_code" : "849VQGJF+74"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ-2DS4hCHhYARcHfy8rnSyow",
+         "scope" : "GOOGLE",
+         "types" : [
+            "grocery_or_supermarket",
+            "supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 134,
+         "vicinity" : "5350 Geary Boulevard, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7864721,
+               "lng" : -122.450843
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.78783383029149,
+                  "lng" : -122.4494881197085
+               },
+               "southwest" : {
+                  "lat" : 37.7851358697085,
+                  "lng" : -122.4521860802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "807da18076b0c50e4d4c8d066591086d2c469651",
+         "name" : "Bryan's Grocery",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115687222522362685364\"\u003eMACTackleBox\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAYJWq4QQ8GIgR5ESqJk8-Ylqcss-BVnUWOn87a9t9FDKpfig8cqgdw-uBIJAHzH3MOgjgtbRJnflmFFuaT9-aaFRJW9v0TGXJKrriy45p_RRbjfpV0VnJyyANLS1dn9a4EhChWIbwSHWiwEpXZ9QEJsgAGhSO69dYxI2c2kCcoeToyjjG8jBf4Q",
+               "width" : 1960
+            }
+         ],
+         "place_id" : "ChIJ-ccSizOHhYARNJjZFLDknbk",
+         "plus_code" : {
+            "compound_code" : "QGPX+HM Laurel Heights, San Francisco, CA, USA",
+            "global_code" : "849VQGPX+HM"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ-ccSizOHhYARNJjZFLDknbk",
+         "scope" : "GOOGLE",
+         "types" : [
+            "grocery_or_supermarket",
+            "supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 90,
+         "vicinity" : "3445 California Street, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7801096,
+               "lng" : -122.4795738
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.78153853029149,
+                  "lng" : -122.4781991197085
+               },
+               "southwest" : {
+                  "lat" : 37.77884056970849,
+                  "lng" : -122.4808970802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "4b83e18a55f005dde6ba7245bb4a3ca4b367a47b",
+         "name" : "Mainland Market Co.",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1314,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110266514178304811872\"\u003eMainland Market Co.\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAfYm67ggfqg3PMnKLBDhwGCS903uCGXSmN71M90__blsPDYPS01yRKrnJdVUBNJetO5ENfPlIViiu1QLCMU-_LD8yg1T2eJVulLIct6fH248dHqkidNJIPwON2S0g7hSYEhDlCPMNMbmGnqngcNixV-LpGhRD8y0ZBF2aEAHgdo3w3VPwGr5w6A",
+               "width" : 822
+            }
+         ],
+         "place_id" : "ChIJ6XVNMRCHhYAR4rwMlip9N90",
+         "plus_code" : {
+            "compound_code" : "QGJC+25 Richmond District, San Francisco, CA, USA",
+            "global_code" : "849VQGJC+25"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJ6XVNMRCHhYAR4rwMlip9N90",
+         "scope" : "GOOGLE",
+         "types" : [
+            "grocery_or_supermarket",
+            "supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 75,
+         "vicinity" : "5601 Geary Boulevard, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7999632,
+               "lng" : -122.4415078
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.80140713029149,
+                  "lng" : -122.4401839197085
+               },
+               "southwest" : {
+                  "lat" : 37.79870916970849,
+                  "lng" : -122.4428818802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "e4086ed9e71514a792c175642c6289fdd67e3f33",
+         "name" : "Marina Supermarket",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115022255874591551193\"\u003eDavid Omoto\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA6yluRahdN7OGKCQj6rQ8AUq7gf_Aqs-cWajMcMLXiFGTQYKgsvKDJThnznA_iR27vrq8htE4UpLtb9Cjk26qfdmEoye7PDtKgPbCswKGj3cmC6QFNFbvx2qKF2OZF8DyEhBCZGSuvW5yDCEPvjPgiW7LGhRHmEsE4WoC8hsOS692cvHC3dUW9g",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJhVNyI9SAhYARHlSDhMSjFag",
+         "plus_code" : {
+            "compound_code" : "QHX5+X9 Marina District, San Francisco, CA, USA",
+            "global_code" : "849VQHX5+X9"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJhVNyI9SAhYARHlSDhMSjFag",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 221,
+         "vicinity" : "2323 Chestnut Street, San Francisco"
+      }
+   ],
+   "status" : "OK"
+}

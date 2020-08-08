@@ -1,0 +1,588 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.731189,
+               "lng" : -122.408965
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7325825802915,
+                  "lng" : -122.4073422197085
+               },
+               "southwest" : {
+                  "lat" : 37.72988461970851,
+                  "lng" : -122.4100401802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "b2552d1641c8692c0f863bcc8efc87e0e45c95b5",
+         "name" : "Grocery Outlet",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109935478389232473597\"\u003egibin george\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAXdCxJs91XLEYyr5e4dHfce_a7PsW5BGV6pZN5ItiHrbzkXfGpkshL72SlwuurPq8pteyOtCA1MN9EMZpZ3F3kjBeRfywLrb_gG78n9cRKeQEE1oNWeimIrUF6-skwjWlEhBqepxmjazDWuDu69GXLXZLGhSrgeiDFUuOUXgOLBW3VQPFo5oNYQ",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJ6QVSuPt-j4ARwgu6Oglwvvo",
+         "plus_code" : {
+            "compound_code" : "PHJR+FC Portola, San Francisco, CA, USA",
+            "global_code" : "849VPHJR+FC"
+         },
+         "price_level" : 1,
+         "rating" : 4.3,
+         "reference" : "ChIJ6QVSuPt-j4ARwgu6Oglwvvo",
+         "scope" : "GOOGLE",
+         "types" : [
+            "grocery_or_supermarket",
+            "supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 370,
+         "vicinity" : "1390 Silver Avenue, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7084772,
+               "lng" : -122.4060123
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7096887302915,
+                  "lng" : -122.4044951697085
+               },
+               "southwest" : {
+                  "lat" : 37.7069907697085,
+                  "lng" : -122.4071931302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "ef56693b04b95aa2a2555f7ddc572ff80ad7d2a6",
+         "name" : "Grocery Outlet Bargain Market",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117176235386327593348\"\u003eAlexanderNet\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAabEXFklE7K_Lvv1ZXAgQjHwCqzcXzxbmRvarAxhhFMHAbZPVvwrHHz_od9H9Fb2meMNTdXcG4P6Xl9ntRRB56PKNGlXM4T5xMDjK5WuXpM1x6BBB8bo5l7Kl8D1kkoFYEhAa9gvnz0rGXptJJpGiAqgTGhQVfvD9dF-7rqsJnZ58guMzeOkXkw",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJx-I5Qdd-j4ARedk9Oh7yoaA",
+         "plus_code" : {
+            "compound_code" : "PH5V+9H Visitacion Valley, San Francisco, CA, USA",
+            "global_code" : "849VPH5V+9H"
+         },
+         "price_level" : 1,
+         "rating" : 4.3,
+         "reference" : "ChIJx-I5Qdd-j4ARedk9Oh7yoaA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "grocery_or_supermarket",
+            "supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 574,
+         "vicinity" : "2630 Bayshore Boulevard, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.73041999999999,
+               "lng" : -122.428931
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.73175528029149,
+                  "lng" : -122.4277924197085
+               },
+               "southwest" : {
+                  "lat" : 37.7290573197085,
+                  "lng" : -122.4304903802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "b824438661ec24bcdf47ce4854f0c056afb40652",
+         "name" : "Manila Oriental Market",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106090123279982646645\"\u003eCowander Gage\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAWSItPtJYzRo30dB7Skj9VNDC2azCTvsw2TrcOMIURuVpbGq9S9lFW1ADNzwz9IzoDFt8LdnsCZi7f_wSNMxjG_7Rxlr5e7If7WNR8zw016F5rd9lB7IsAVxbI9XmByMGEhDUeJ0DhWkJosebMFdgqnFxGhQt6c2FGP81dAgPkde5tYNoEOiOiQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJA-QiEIp-j4AR-hFxn6vSQ2U",
+         "plus_code" : {
+            "compound_code" : "PHJC+5C Excelsior, San Francisco, CA, USA",
+            "global_code" : "849VPHJC+5C"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJA-QiEIp-j4AR-hFxn6vSQ2U",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 561,
+         "vicinity" : "4175 Mission Street, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.732995,
+               "lng" : -122.3911469
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.73435893029149,
+                  "lng" : -122.3898644697085
+               },
+               "southwest" : {
+                  "lat" : 37.73166096970849,
+                  "lng" : -122.3925624302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "8f5d3bd68766039cb024e19ead2e78e449919344",
+         "name" : "Big Save Market",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 300,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113745113257885697162\"\u003eBrian Coleman\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAKcKI9z5WAbIQdKbdQP5D4j4ymX3JYnbb2FOhGY1O8Qr_H3cwIQCODJvz8RoT5QHteBpsiDPHnVu_lFETtP22ghkZgF0sRYi6tmxGcD7SHzPF2-XTGb8VMlt_5fKyJnx-EhBeftUzv23SRojnZ715EOfPGhRhyrKtgPK2PUgvp8hapeUil7BLcg",
+               "width" : 300
+            }
+         ],
+         "place_id" : "ChIJP0qCtBp_j4AR5DthAVJtKSo",
+         "plus_code" : {
+            "compound_code" : "PJM5+5G Bayview, San Francisco, CA, USA",
+            "global_code" : "849VPJM5+5G"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJP0qCtBp_j4AR5DthAVJtKSo",
+         "scope" : "GOOGLE",
+         "types" : [
+            "grocery_or_supermarket",
+            "supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 22,
+         "vicinity" : "5001 3rd Street, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7119824,
+               "lng" : -122.415887
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7132845802915,
+                  "lng" : -122.4145559697085
+               },
+               "southwest" : {
+                  "lat" : 37.7105866197085,
+                  "lng" : -122.4172539302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "d3c91d33d26349c3402f3aa37d17761213ad1e12",
+         "name" : "Little Village Market",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2560,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108980763828875668992\"\u003eEmon Brown\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAACWy1TGmcTbjJbjNNJgN3bYTY70QOyhZJ0DShyVkduDc3WP7dv3NeQN7g3qNSRfJoJqmCTfPIHlIxUgnPvm6nte36lh75AorFYGij4fP1YnilHfUyKr9q5dmZeyz4Fd7hEhDtkWENz2G3v2RDHc4eH94vGhSW5MKMECgMKDcgtCjOaqMKrzapLw",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJUUG4ncN-j4ARsCb0OpvqZ3I",
+         "plus_code" : {
+            "compound_code" : "PH6M+QJ Visitacion Valley, San Francisco, CA, USA",
+            "global_code" : "849VPH6M+QJ"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJUUG4ncN-j4ARsCb0OpvqZ3I",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "liquor_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 70,
+         "vicinity" : "1450 Sunnydale Avenue, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7389034,
+               "lng" : -122.4167345
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7403442802915,
+                  "lng" : -122.4153671197085
+               },
+               "southwest" : {
+                  "lat" : 37.7376463197085,
+                  "lng" : -122.4180650802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "8325744e270191eb582a5ad2d0189abbbcc6fe01",
+         "name" : "The Good Life Grocery",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101672438400341524494\"\u003eJeff Aguero\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAww5-mAutrLtW-mmHj5dI5gp5B5poT6H0r6f11PizhsqOQPP5QbW1vVew6R0E0FaWVqDq9xh6q6Q_TPzauM9w4pyJGqTC1tS4w93PZ7l6Cn_VtN_d2WZs0Yp59ijU_0MXEhAcf8znwfDF3l7aSsPxodFpGhTYjxX_4rY1Ya63LM6uItPbTNCd5w",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJFYYdZll-j4ARkKQSx7XJAEw",
+         "plus_code" : {
+            "compound_code" : "PHQM+H8 Bernal Heights, San Francisco, CA, USA",
+            "global_code" : "849VPHQM+H8"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJFYYdZll-j4ARkKQSx7XJAEw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "grocery_or_supermarket",
+            "supermarket",
+            "food",
+            "health",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 202,
+         "vicinity" : "448 Cortland Avenue, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7304247,
+               "lng" : -122.4049426
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7318637802915,
+                  "lng" : -122.4035544697085
+               },
+               "southwest" : {
+                  "lat" : 37.72916581970851,
+                  "lng" : -122.4062524302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "4087de94d57138660a082ec479d47e740a127bd6",
+         "name" : "San Bruno Supermarket",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112415582614679569505\"\u003eLuiz Pereira\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAX74vH6BGmAm_LK2tAfmI4bmG3HKjJy6fNIEkjk-Ekievj_wvBRwfz79iIRWA6eibi2TRxeCzci_g1R6D6kDmfwQidN-wC6d2aMKFAFgpQVsXENd2SwGssi1rY22FyQ63EhAZM5CtirgB1tJPYcRXi12lGhQZG1u1--bZwSNb3tA86PtH9wZ17A",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJReuU5fx-j4ARde8bewEDodY",
+         "plus_code" : {
+            "compound_code" : "PHJW+52 Portola, San Francisco, CA, USA",
+            "global_code" : "849VPHJW+52"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJReuU5fx-j4ARde8bewEDodY",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 235,
+         "vicinity" : "2480 San Bruno Avenue, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7152202,
+               "lng" : -122.4084744
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.71656918029149,
+                  "lng" : -122.4071254197085
+               },
+               "southwest" : {
+                  "lat" : 37.71387121970849,
+                  "lng" : -122.4098233802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "f2bd125f87fc65107680b9c672a6044a9bb64f49",
+         "name" : "Liquor store & Teddy’s market",
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111825472527648714356\"\u003eEbrahim Mosa\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA03qIxABBYwovJWgKukRp6E1h3Hl3P_5WsRcGH7ugDu21KKTaUxPg0YdUQ1n8WHcr3mchzDmPrySAIT0UoocqUgZTWXyShk_mIVQDFhj-e34Snx0XcJCPJDo9ZG7-7StCEhBQQ10TgpHPLe5al_PW-Mb1GhRbboDfrDjW9CWeHCwPObte28LlTA",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ2az-7Vl_j4AR3V87h5ciI5k",
+         "plus_code" : {
+            "compound_code" : "PH8R+3J Visitacion Valley, San Francisco, CA, USA",
+            "global_code" : "849VPH8R+3J"
+         },
+         "reference" : "ChIJ2az-7Vl_j4AR3V87h5ciI5k",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "vicinity" : "290 Teddy Avenue, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7253069,
+               "lng" : -122.4340729
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7267023302915,
+                  "lng" : -122.4328323197085
+               },
+               "southwest" : {
+                  "lat" : 37.7240043697085,
+                  "lng" : -122.4355302802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "e4900fe97eed2c71eec9710dc98d2b7ccb575d71",
+         "name" : "Casa Lucaz #3 Produce and Meat Market",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111929733248388607704\"\u003eDaire Lyne\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAnQEU5ohEN5ABQphiLUJlgaX44-s4v8hA_Ua5mmOti2BTE9asUwV9auJtCB5zL4atRuP2y3rJtPBNLQ1OOv8A7fCvCy7jt3BzucysivAMa5kvvpAhG3hgfBiVwbwFxxnJEhCw6Od3Hx9Q9WEd5OSw2P36GhTscgZWPCNLbctDKAlz0ZPwGYkb7g",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJiXixuYh-j4ARkYMpGlxBzfk",
+         "plus_code" : {
+            "compound_code" : "PHG8+49 Excelsior, San Francisco, CA, USA",
+            "global_code" : "849VPHG8+49"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJiXixuYh-j4ARkYMpGlxBzfk",
+         "scope" : "GOOGLE",
+         "types" : [
+            "grocery_or_supermarket",
+            "supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 293,
+         "vicinity" : "4555 Mission Street, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.738733,
+               "lng" : -122.414197
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.74017763029151,
+                  "lng" : -122.4128597197085
+               },
+               "southwest" : {
+                  "lat" : 37.73747966970851,
+                  "lng" : -122.4155576802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "2367228531ff65cdbd50d5b7adcfae5c96fea40a",
+         "name" : "Andi's Market",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101179795073197933188\"\u003eHerlindros\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAtjYNMUlvOx2w-8VGKHEp0EmuqQ44dQ_p95-O9aZGR4i8CzKskLiutFE2HoOkCoaTFBhQAPrziKaHQrciNAkWikuJobv8qamg8d8NP9Yh2QZS7MD6DcBD9uXDfL58QQ6bEhDp_CQuIMfJXEMeNmLnqHJTGhS2r1AnNoXdkVFy4bWhD0q-VC-33A",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJi6qFuFl-j4ARnCag83hB8Dg",
+         "plus_code" : {
+            "compound_code" : "PHQP+F8 Bernal Heights, San Francisco, CA, USA",
+            "global_code" : "849VPHQP+F8"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJi6qFuFl-j4ARnCag83hB8Dg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "grocery_or_supermarket",
+            "supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 39,
+         "vicinity" : "820 Cortland Avenue, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.733403,
+               "lng" : -122.428393
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7348016802915,
+                  "lng" : -122.4270507697085
+               },
+               "southwest" : {
+                  "lat" : 37.7321037197085,
+                  "lng" : -122.4297487302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "9a72dff72b7eeb71363f09bc190020569bb223f4",
+         "name" : "New Bosworth Market",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 350,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103365826159105769846\"\u003eNew Bosworth Market\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAArC1qIx-aFtctLwbLAbMYKO64QanvG5nRg4t3YdL_oUsxJPUiwkOcrO47MEfoF3O47zADxLjg730xv9u36SE8rL8Yin4noPdVS_Uh1CwavN0Ie9mmcU5ulGh-VspxTOM2EhDVMrNlakSFhFus8BcCN3DmGhQaT5r6PPCqWdLLAbIQuwSrQC8qIg",
+               "width" : 622
+            }
+         ],
+         "place_id" : "ChIJMX9ln2F-j4ARLRFlgmZ-lXA",
+         "plus_code" : {
+            "compound_code" : "PHMC+9J Bernal Heights, San Francisco, CA, USA",
+            "global_code" : "849VPHMC+9J"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJMX9ln2F-j4ARLRFlgmZ-lXA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "grocery_or_supermarket",
+            "supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 49,
+         "vicinity" : "145 Bosworth Street #1003, San Francisco"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,219 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.742125,
+               "lng" : -122.502318
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7433513802915,
+                  "lng" : -122.5009592697085
+               },
+               "southwest" : {
+                  "lat" : 37.7406534197085,
+                  "lng" : -122.5036572302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "2775d93dc47a4060eaba957c259a1f6f91a3f587",
+         "name" : "Amity Market",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3036,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110593201244106614981\"\u003eTre Retter\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAe4IT6NJOZOrgPCgA38v7lDJGytP6dXYHTz4CouTrlPyglBmc2vVlGtIDVSxPMpmB1kP6Ycyg4Y6AuTApSCUF3Q4sbOZItvLMgT_Pf0NyDZ-kNr-M8KiCxe2aXI0m5xxREhAcu_dpPM7k93GMHJoKF3X5GhQJvF5ob-earhyA4Lys4xeiJWfdKQ",
+               "width" : 4048
+            }
+         ],
+         "place_id" : "ChIJ52IbpHx9j4ARu1YbnDpW7hc",
+         "plus_code" : {
+            "compound_code" : "PFRX+V3 Parkside, San Francisco, CA, USA",
+            "global_code" : "849VPFRX+V3"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJ52IbpHx9j4ARu1YbnDpW7hc",
+         "scope" : "GOOGLE",
+         "types" : [
+            "grocery_or_supermarket",
+            "supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 28,
+         "vicinity" : "3350 Taraval Street, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7381706,
+               "lng" : -122.4974823
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.73961363029149,
+                  "lng" : -122.4961031197085
+               },
+               "southwest" : {
+                  "lat" : 37.7369156697085,
+                  "lng" : -122.4988010802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "b558fe0858b3ea5ddf973aa0c3fd2d660c0ac725",
+         "name" : "Sunset Supermarket",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108645220539171473023\"\u003eDavid Wee\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAIBSrl6Gm_iGotf2wmJtUTI1-xDZLniYEYF-GkGNeDj4LN_Es_FjjiPYghUx-Tc8me4quukRLDpR_yI7oEeCn9aMk7hpGaBT_B5FkVL2ysdacEEP-d4tPqs1h92BXxQMaEhBZUXJGdgQn_W2_W-s0FewaGhRQyxu8JSMCdaWaLxtd9xvl-gdj9w",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJlTOMU3d9j4AR3W6b12Bese8",
+         "plus_code" : {
+            "compound_code" : "PGQ3+72 Parkside, San Francisco, CA, USA",
+            "global_code" : "849VPGQ3+72"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJlTOMU3d9j4AR3W6b12Bese8",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 322,
+         "vicinity" : "2801 Vicente Street, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7534466,
+               "lng" : -122.4913163
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7548747802915,
+                  "lng" : -122.4900191197085
+               },
+               "southwest" : {
+                  "lat" : 37.7521768197085,
+                  "lng" : -122.4927170802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "e5d14d86d5534e52a98a5db5128fe791dcc54d4c",
+         "name" : "Boss Supermarket",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104376690949518661594\"\u003eIbrahim Mgammal\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAAbf6mOdCsdOA6I7Y4o0AA3hdeeS1wIChEULf6TfUv8-z4IbG0Qcf8m6vRbSjggByae6UeDD3g6lENhm6cMmkNw8mZQkHAUHGsbX2eTJdPjnJuTwHkETn-XnzXaUY7SZqEhC_9xWt0-9iSHyHwardvY9zGhTDlfdOzuC7YJS0mCOtEFiykdXMlQ",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ37-OaH-HhYARbVscIO1kd2E",
+         "plus_code" : {
+            "compound_code" : "QG35+9F Outer Sunset, San Francisco, CA, USA",
+            "global_code" : "849VQG35+9F"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJ37-OaH-HhYARbVscIO1kd2E",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 25,
+         "vicinity" : "2551 Noriega Street, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7602916,
+               "lng" : -122.5057772
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7617125302915,
+                  "lng" : -122.5044326197085
+               },
+               "southwest" : {
+                  "lat" : 37.7590145697085,
+                  "lng" : -122.5071305802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "e3d509f3e464ba78560f057da548d3a3b0d0905f",
+         "name" : "Western Sunset Market",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117286940386324453853\"\u003eAustin Craver\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAUl5w1Lq0P93ZzlHwmWt0wKsiyalNXJp6eoJqZZQtCzWBEVwltkZXwGRBHwpoxFa6Ix_wckIGqHDvdoO7ZqykNCR4aEm9LJIUiux3Z2jxIvJNAa-tbtrMWDOxWeZ6m6_3EhDz6ojGwFMHOQ1WUdCOESXFGhTqFQ0G2-Pdb-jFwDR-GI6T2Dl8zQ",
+               "width" : 1836
+            }
+         ],
+         "place_id" : "ChIJRzOqKJeHhYARR2iDrOp_E5Q",
+         "plus_code" : {
+            "compound_code" : "QF6V+4M Outer Sunset, San Francisco, CA, USA",
+            "global_code" : "849VQF6V+4M"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJRzOqKJeHhYARR2iDrOp_E5Q",
+         "scope" : "GOOGLE",
+         "types" : [
+            "convenience_store",
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 11,
+         "vicinity" : "4099 Judah Street, San Francisco"
+      }
+   ],
+   "status" : "OK"
+}

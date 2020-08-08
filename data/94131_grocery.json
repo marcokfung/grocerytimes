@@ -1,0 +1,917 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7519697,
+               "lng" : -122.4308871
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.75323608029149,
+                  "lng" : -122.4295693697085
+               },
+               "southwest" : {
+                  "lat" : 37.75053811970849,
+                  "lng" : -122.4322673302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "86b887c8657bc9467ada1717f7b55f6ca9e6fd50",
+         "name" : "Whole Foods Market",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1309,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115983881351940293821\"\u003eFranck Murialdo\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAUwdvNeetEiy832PFenHkcS3KUF6Fo3rJtLls7nbiUUtk96dUyga9FEWQl3-Ex1hRKkYHItXFk0wILK8p0TT7nJj9UB1mNIlu9Ex8voZ9eYy7v-jVgMrFAiPFIJ7MzotOEhAkVB48Pr0VTaRgneZgeWwLGhRUBqhAy4bZ6zj_vZJCP9VUwIg-3Q",
+               "width" : 1312
+            }
+         ],
+         "place_id" : "ChIJpaZAnhN-j4ARC-HGxxzejQ8",
+         "plus_code" : {
+            "compound_code" : "QH29+QJ Noe Valley, San Francisco, CA, USA",
+            "global_code" : "849VQH29+QJ"
+         },
+         "price_level" : 3,
+         "rating" : 4.1,
+         "reference" : "ChIJpaZAnhN-j4ARC-HGxxzejQ8",
+         "scope" : "GOOGLE",
+         "types" : [
+            "grocery_or_supermarket",
+            "supermarket",
+            "food",
+            "health",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 615,
+         "vicinity" : "3950 24th Street, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7238078,
+               "lng" : -122.4548902
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.72527658029151,
+                  "lng" : -122.4536762197085
+               },
+               "southwest" : {
+                  "lat" : 37.72257861970851,
+                  "lng" : -122.4563741802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "9a2416858358c30f6018575620b64f8de506a878",
+         "name" : "Whole Foods Market",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107484612155962989349\"\u003eIra Daniel\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA3MORV5wb7Ei930FDIH2LNpB4Ufxd9eCKY7V-D0DP3M39LvZy68zxtnfC3be3fr4IqtblyDDqvoUdOoea56HOUJP9toTapp3DDX5tRt1V6mkr1t2L_kgQHgJzMW4griaFEhC_Qmdv90rdpNso0AhAnCSiGhRphLYMwR06NsAJ0acSlcLcJivfIQ",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJq6qqqoZ-j4ARg4Jybn5PcoM",
+         "plus_code" : {
+            "compound_code" : "PGFW+G2 West of Twin Peaks, San Francisco, CA, USA",
+            "global_code" : "849VPGFW+G2"
+         },
+         "price_level" : 3,
+         "rating" : 4.3,
+         "reference" : "ChIJq6qqqoZ-j4ARg4Jybn5PcoM",
+         "scope" : "GOOGLE",
+         "types" : [
+            "grocery_or_supermarket",
+            "supermarket",
+            "food",
+            "health",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 840,
+         "vicinity" : "1150 Ocean Avenue, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7341139,
+               "lng" : -122.43385
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7355269302915,
+                  "lng" : -122.4325752197085
+               },
+               "southwest" : {
+                  "lat" : 37.7328289697085,
+                  "lng" : -122.4352731802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "6cdc96114800c0e11ca6ff7beb3cc04567a8181d",
+         "name" : "Canyon Market",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104390914659004769007\"\u003eShelly Puri\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAIbD3CV-YZkwQfSEm-yGh35CY0fPI91GFVvo14uT1dqvWX6yQD2qwGzV14Gw4mduxhQd9bGTu_-eXOYkr3g_FW6lj9T2pOiKrYQYbKdHNzRoq_o2yi2kD6u45ghPRnBXTEhDbiSvaVXr8nC0Ii4wzJoFRGhQt_MrIPqE_gUPZkKG0NWqfHjGnjQ",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJja5eYGN-j4ARRueIhN5ZGhQ",
+         "plus_code" : {
+            "compound_code" : "PHM8+JF Glen Park, San Francisco, CA, USA",
+            "global_code" : "849VPHM8+JF"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJja5eYGN-j4ARRueIhN5ZGhQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "grocery_or_supermarket",
+            "supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 474,
+         "vicinity" : "2815 Diamond Street, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7447552,
+               "lng" : -122.4522998
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7462027302915,
+                  "lng" : -122.4510109697085
+               },
+               "southwest" : {
+                  "lat" : 37.7435047697085,
+                  "lng" : -122.4537089302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "383d24b3385170f25e85fe41ead273555e2db782",
+         "name" : "Mollie Stone's Market",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116286291547221211979\"\u003eElizabeth Dunbar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAsRE2OmIezaYGDH-zTtMCFHI7XHVCOqdh7Eii5aU_eAaGzSfKzDZeXfwJG7fgGupklfPUfUFLg8tHyXezEWfC9Vh-iWKcDg4o2cJOEBYPmlrY75puqt3mkIqyzkxqwRYHEhDwISjZcYfyGBZcxsYv76OJGhRSTbGjBtHjVf97hCok7YqSTfjlCg",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJ-arRLOd9j4ARzfBsCS8u1_4",
+         "plus_code" : {
+            "compound_code" : "PGVX+W3 Miraloma, San Francisco, CA, USA",
+            "global_code" : "849VPGVX+W3"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJ-arRLOd9j4ARzfBsCS8u1_4",
+         "scope" : "GOOGLE",
+         "types" : [
+            "grocery_or_supermarket",
+            "supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 183,
+         "vicinity" : "635 Portola Drive, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.73041999999999,
+               "lng" : -122.428931
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.73175528029149,
+                  "lng" : -122.4277924197085
+               },
+               "southwest" : {
+                  "lat" : 37.7290573197085,
+                  "lng" : -122.4304903802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "b824438661ec24bcdf47ce4854f0c056afb40652",
+         "name" : "Manila Oriental Market",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106090123279982646645\"\u003eCowander Gage\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAyaB0aaa0clysiqBoRgFoHAJ1FjULWjY_Se-txRLvXpQfCfP8KtmHe82cQzvF3tCCup9ASf3wAJkb0HBpIVeKwrUhigmMnqzZeSenQKv78hs1A89Gpij8gOVS4YP3FacHEhDDUYTOtZBtPl8OdxraRi2RGhQp1u8sv9ZYJVFSxnpUJUAIZhshUQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJA-QiEIp-j4AR-hFxn6vSQ2U",
+         "plus_code" : {
+            "compound_code" : "PHJC+5C Excelsior, San Francisco, CA, USA",
+            "global_code" : "849VPHJC+5C"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJA-QiEIp-j4AR-hFxn6vSQ2U",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 561,
+         "vicinity" : "4175 Mission Street, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7605556,
+               "lng" : -122.4363889
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7620288302915,
+                  "lng" : -122.4350332197085
+               },
+               "southwest" : {
+                  "lat" : 37.7593308697085,
+                  "lng" : -122.4377311802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "327abec89da9b6cefb67b23b14b062184c000251",
+         "name" : "Mollie Stone's Markets",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104390914659004769007\"\u003eShelly Puri\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA-efnKAvbz3YyJtOjbDrLCxo2MMGNo9fUi7SMD8CIFUN_jLAG2zXHlUi0HByZlVvbNtfih1PR2NKKe-oTTqhuDtXCBjNml636zxM-_2ON_XeCZKhj13sr4mKp_K3JrsSlEhCr__FtXsoP0cA6uDNCq7i-GhSypPfkahILoROjY8WF7h17iFMUtw",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ-StUwQR-j4ARDKiQXMY5pnY",
+         "plus_code" : {
+            "compound_code" : "QH67+6C Eureka Valley, San Francisco, CA, USA",
+            "global_code" : "849VQH67+6C"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJ-StUwQR-j4ARDKiQXMY5pnY",
+         "scope" : "GOOGLE",
+         "types" : [
+            "grocery_or_supermarket",
+            "supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 147,
+         "vicinity" : "4201 18th Street, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7535901,
+               "lng" : -122.4210019
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7549417302915,
+                  "lng" : -122.4195646197085
+               },
+               "southwest" : {
+                  "lat" : 37.7522437697085,
+                  "lng" : -122.4222625802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "867a5ced9caa65880125be36c8b6d8916024916b",
+         "name" : "MR LIQUOR Store",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112842749975612852111\"\u003eMarcos Voltolini\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAGvZdZDqRW3Ual-NtnZjeJBoJWNQi7LCw-3kL_JXvbTtSQduRlPksq7q1Q0y5Lgqf4ny2C4fpi1uXju-PdUYif2vCQkBkQ0pxwmaSWWGMmGluVpaHG-Skjddnfmi8j8JmEhBv4K41-6gHhj0jSnH8l2-IGhRckh0Fb1Vo_8ClNVgPJtpm0TmOow",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJAVqXcUV-j4ART5N4rLciWSQ",
+         "plus_code" : {
+            "compound_code" : "QH3H+CH Mission District, San Francisco, CA, USA",
+            "global_code" : "849VQH3H+CH"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJAVqXcUV-j4ART5N4rLciWSQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "atm",
+            "grocery_or_supermarket",
+            "finance",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 14,
+         "vicinity" : "1200 Valencia Street, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7389034,
+               "lng" : -122.4167345
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7403442802915,
+                  "lng" : -122.4153671197085
+               },
+               "southwest" : {
+                  "lat" : 37.7376463197085,
+                  "lng" : -122.4180650802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "8325744e270191eb582a5ad2d0189abbbcc6fe01",
+         "name" : "The Good Life Grocery",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101672438400341524494\"\u003eJeff Aguero\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAo3d7cZ2gzQKZ80uQP1XflrLdP9iqZvKFVDREVyBh_nVI6X1bNYN6F7LwG4ZwVQXs9FOY7PhO-ZeUlm7sE0mTS7uxGnb-x04aSurATwkhvNhgda1jFICBOss-txhYOp0XEhAPWUNUxjheY318PJwQU4VGGhSB2Un5U3QGOWmj2yvRzCS1MC4n9w",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJFYYdZll-j4ARkKQSx7XJAEw",
+         "plus_code" : {
+            "compound_code" : "PHQM+H8 Bernal Heights, San Francisco, CA, USA",
+            "global_code" : "849VPHQM+H8"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJFYYdZll-j4ARkKQSx7XJAEw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "grocery_or_supermarket",
+            "supermarket",
+            "food",
+            "health",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 202,
+         "vicinity" : "448 Cortland Avenue, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7194761,
+               "lng" : -122.4384741
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7208728302915,
+                  "lng" : -122.4372385697085
+               },
+               "southwest" : {
+                  "lat" : 37.71817486970851,
+                  "lng" : -122.4399365302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "191f647a9f12124bba96e6c5386d69ab64972b1c",
+         "name" : "San Francisco Farmers Market",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1288,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109002163367889104912\"\u003eSan Francisco Farmers Market\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA3FSjYpVCFBIg72OATv9-Y39RUBv50KfI9nQtk5EO9owMP0ww6r4YlKM6ovxhmsP0nmKYhMlDSXVyhVHi4z6BR8NAhr5ieMcwzSbsTkBXDpWTkUdsVuSa6fkSLMqPhkvjEhB7BnwhYFR7jT5zC9l4tk7XGhSIIUX0LPfyQMUHyVNLOzvek3C1AA",
+               "width" : 966
+            }
+         ],
+         "place_id" : "ChIJvzwC3IR-j4ARg5m-YG9oxI4",
+         "plus_code" : {
+            "compound_code" : "PH96+QJ Excelsior, San Francisco, CA, USA",
+            "global_code" : "849VPH96+QJ"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJvzwC3IR-j4ARg5m-YG9oxI4",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 14,
+         "vicinity" : "4929 Mission Street, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7253069,
+               "lng" : -122.4340729
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7267023302915,
+                  "lng" : -122.4328323197085
+               },
+               "southwest" : {
+                  "lat" : 37.7240043697085,
+                  "lng" : -122.4355302802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "e4900fe97eed2c71eec9710dc98d2b7ccb575d71",
+         "name" : "Casa Lucaz #3 Produce and Meat Market",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111929733248388607704\"\u003eDaire Lyne\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAQ8HgwR4zcStSaZ4ImAqoaq2uesR6SWgHRv9mI7Zcneph7Z1B7LXMrCbCGRVL4CT2MI9Vgv8nwwZRWP_ZkGU-pwnbDwISwsI_48EDmYFcENNsc8N9QwTmIK2_8xN465jEEhAkIZ7tn8E-GmI1W8pVyRvYGhRLzGTIBBWCNiKks57fqqpzXnSF3w",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJiXixuYh-j4ARkYMpGlxBzfk",
+         "plus_code" : {
+            "compound_code" : "PHG8+49 Excelsior, San Francisco, CA, USA",
+            "global_code" : "849VPHG8+49"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJiXixuYh-j4ARkYMpGlxBzfk",
+         "scope" : "GOOGLE",
+         "types" : [
+            "grocery_or_supermarket",
+            "supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 293,
+         "vicinity" : "4555 Mission Street, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.733403,
+               "lng" : -122.428393
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7348016802915,
+                  "lng" : -122.4270507697085
+               },
+               "southwest" : {
+                  "lat" : 37.7321037197085,
+                  "lng" : -122.4297487302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "9a72dff72b7eeb71363f09bc190020569bb223f4",
+         "name" : "New Bosworth Market",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 350,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103365826159105769846\"\u003eNew Bosworth Market\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAJ0J3BAmY95HfWsRuc8KRIWBwJhezqcgJVzVmQc4V0pha9SpjaQta2QCKIvvGh8TNkvxYq40aXKJ4vYnWlFdiGEe1WNUrbQ4N4lfYmPRuTSij1fw6kDLZlmtVyjgBDz9hEhDMLdLp5loNp022biKKYighGhTiifmtzX422KIpC_gLW-A6IUBbcg",
+               "width" : 622
+            }
+         ],
+         "place_id" : "ChIJMX9ln2F-j4ARLRFlgmZ-lXA",
+         "plus_code" : {
+            "compound_code" : "PHMC+9J Bernal Heights, San Francisco, CA, USA",
+            "global_code" : "849VPHMC+9J"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJMX9ln2F-j4ARLRFlgmZ-lXA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "grocery_or_supermarket",
+            "supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 49,
+         "vicinity" : "145 Bosworth Street #1003, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7414698,
+               "lng" : -122.4227394
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7427895302915,
+                  "lng" : -122.4213285197085
+               },
+               "southwest" : {
+                  "lat" : 37.7400915697085,
+                  "lng" : -122.4240264802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "bc2af1bc0c94e68b6e1dd51046fc2ca84267c750",
+         "name" : "El Ahorro Market & Deli",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114320632597180150640\"\u003eEl Ahorro Market &amp; Deli\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAuESW9n-FjUEZH2LAwAUyvqOYcQFyg7LPch_Hu2gk9S8CYRgWUvh3k7j6jmvd_12na1bFqQwJzK-k_OckAEf_oPI0I0KaPPpvO_ti6SwohJ_bhcXuvwfMHX-LvWJF36MXEhCKTsorOXGYp_52TMoKwsgJGhQ8saXPp1zKPbxnWor595eRwWTWWQ",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJS8yQQF1-j4ARNUxlr6VGkOU",
+         "plus_code" : {
+            "compound_code" : "PHRG+HW Bernal Heights, San Francisco, CA, USA",
+            "global_code" : "849VPHRG+HW"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJS8yQQF1-j4ARNUxlr6VGkOU",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "liquor_store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 28,
+         "vicinity" : "3456 Mission Street, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7346043,
+               "lng" : -122.4337511
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7359025802915,
+                  "lng" : -122.4323988697085
+               },
+               "southwest" : {
+                  "lat" : 37.7332046197085,
+                  "lng" : -122.4350968302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "766b3c639f155845ed10cd1a72bc0c76ab74de83",
+         "name" : "Buddie's Super Market",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1728,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111425077743037478384\"\u003eAndrew Conway\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAPQ633Kok7DbdvkJE2JmsJhY4DxDv3Ly8NO8SeI21vvtUzpmbAEsCY8_b4fnxcaA-wQq41-8ll784ejGNS-oR6_1DZZF5O6Ng7JjRkBpK97SK4LMY8zo1Wp5W8ABoqhf9EhCBX3tp_nTcdAYWt39X7omWGhTevKZDIJ4jDtXxqobeR8ldYVu5KQ",
+               "width" : 2304
+            }
+         ],
+         "place_id" : "ChIJa1GTnmR-j4ARbaTZp9gwd6I",
+         "plus_code" : {
+            "compound_code" : "PHM8+RF Glen Park, San Francisco, CA, USA",
+            "global_code" : "849VPHM8+RF"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJa1GTnmR-j4ARbaTZp9gwd6I",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "convenience_store",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 9,
+         "vicinity" : "696 Chenery Street, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7492162,
+               "lng" : -122.4179241
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7505581802915,
+                  "lng" : -122.4167029697085
+               },
+               "southwest" : {
+                  "lat" : 37.7478602197085,
+                  "lng" : -122.4194009302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "399554c001890108f1a660d2a44e57e90d454078",
+         "name" : "Casa Guadalupe Supermarket 3",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 750,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117792970812291206399\"\u003eCasa Guadalupe Supermarket 3\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA2iW6PLd7r8G-Rd-Ayw2CoplwhozGc8HLZ70qpLLre7DL6JVsgeyU68NNvddwdOU6xUAEvB8-UYe4dwju55NQQY1awzdlbgF_isuUUAoFqcve49FtLg_wis8F0zBJztKfEhAvVUTkdGmPOI9u3ro5fZ2gGhTHNMjxKFTGSR9pqHBtOl7npySSfg",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJSbxgrkZ-j4ARkiSruQbe63c",
+         "plus_code" : {
+            "compound_code" : "PHXJ+MR Mission District, San Francisco, CA, USA",
+            "global_code" : "849VPHXJ+MR"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJSbxgrkZ-j4ARkiSruQbe63c",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 97,
+         "vicinity" : "2999 Mission Street, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7504668,
+               "lng" : -122.4180347
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.75178963029149,
+                  "lng" : -122.4168146697085
+               },
+               "southwest" : {
+                  "lat" : 37.7490916697085,
+                  "lng" : -122.4195126302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "2b97822c9c600ba5d26b5c40580d70794714c279",
+         "name" : "Casa Guadalupe 2",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1875,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115960596923259046301\"\u003eCasa Guadalupe 2\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAAgeChsNLniw24lHpJaP_hncy5-nr8U_TfwfbMKPqQQ1TeOlR0dCg4D7oT8l17Lc1gJOvdirJGc6tXX4HA8qtBz_ENRC8q0m79a_cGUYngqxTu1LtiFNk1D7_BzYd-Q0ZREhA9ifc647_IeGTxwIfW7_L1GhQsCURsFrUH-VdFTHKh28wari5nOg",
+               "width" : 2500
+            }
+         ],
+         "place_id" : "ChIJ6XuB0kZ-j4ARujsts0MC-LE",
+         "plus_code" : {
+            "compound_code" : "QH2J+5Q Mission District, San Francisco, CA, USA",
+            "global_code" : "849VQH2J+5Q"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ6XuB0kZ-j4ARujsts0MC-LE",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 20,
+         "vicinity" : "2909-11 Mission Street, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.738733,
+               "lng" : -122.414197
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.74017763029151,
+                  "lng" : -122.4128597197085
+               },
+               "southwest" : {
+                  "lat" : 37.73747966970851,
+                  "lng" : -122.4155576802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "2367228531ff65cdbd50d5b7adcfae5c96fea40a",
+         "name" : "Andi's Market",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101179795073197933188\"\u003eHerlindros\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAtVXCEV-0tWJXWlXhtu9XPgzG8FtQmykYsWE7-RxUmRqCG3BCIKx7rYXWDWqb3c_UcuqyL2o11jG1EbQy8Js11EeSw5vEemvG0DYckH3YxsFoHdB-szBGk_edJRo3LOVWEhC_Uk_4NXhVltg4KNR9uqTPGhT5ixb8UAI2TxOYsD5LJ7xawFJ-Sg",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJi6qFuFl-j4ARnCag83hB8Dg",
+         "plus_code" : {
+            "compound_code" : "PHQP+F8 Bernal Heights, San Francisco, CA, USA",
+            "global_code" : "849VPHQP+F8"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJi6qFuFl-j4ARnCag83hB8Dg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "grocery_or_supermarket",
+            "supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 39,
+         "vicinity" : "820 Cortland Avenue, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7246113,
+               "lng" : -122.4587412
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7258815302915,
+                  "lng" : -122.4574193697085
+               },
+               "southwest" : {
+                  "lat" : 37.7231835697085,
+                  "lng" : -122.4601173302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "9594d0cdfc247848d09b4e0870b6dc748bb3357c",
+         "name" : "Power Trading Co",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112501492306585069860\"\u003epuê lûn n̂g\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAE5HD8N6kib0llUrc3DCCKfCg9Awm4mGjXX_LzUIg2qr5IqXIK0DGhCyFHuUqRw-3vgi93G5dPq0JFUhTgeVBehBNcm1KPyHwhgozGGg6LvoeGcBh2TNzI-1QVbIKRBkOEhCBbpNTgtqcApK-2ym3WQOVGhRXJZwgZQEE0ZggWIdrcoNYnzA-4w",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJqRushM19j4ARwy6dS4dRw-A",
+         "plus_code" : {
+            "compound_code" : "PGFR+RG West of Twin Peaks, San Francisco, CA, USA",
+            "global_code" : "849VPGFR+RG"
+         },
+         "rating" : 3,
+         "reference" : "ChIJqRushM19j4ARwy6dS4dRw-A",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 8,
+         "vicinity" : "1524 Ocean Avenue, San Francisco"
+      }
+   ],
+   "status" : "OK"
+}
