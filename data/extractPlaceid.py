@@ -6,7 +6,7 @@ with open('data/94134_grocery.json', 'r', encoding="utf8") as f:
 
 results = pid_json_list.get('results')
 grocery_info= {}
-api_key = "AIzaSyCxcM8yBD9BXROEYSBUbSYUqg2b-bahSyw"
+api_key = "key"
 
 for entry in results:
     pid = entry.get("place_id")
